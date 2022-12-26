@@ -1,0 +1,5 @@
+Nome:            alice
+Telefone:        12342
+CPF:             7812319654
+E-mail:          alice@gmail.com
+Num Sorteado:    90821
